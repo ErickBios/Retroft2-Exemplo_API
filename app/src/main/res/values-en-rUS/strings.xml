@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="addres">Address</string>
+    <string name="user">User</string>
+    <string name="post">Post</string>
+    <string name="comments">Comments</string>
+    <string name="people">People</string>
+    <string name="name">Name</string>
+    <string name="height">Height</string>
+    <string name="mass">Mass</string>
+    <string name="hair_color">Hair Color</string>
+    <string name="skin_color">Skin Color</string>
+    <string name="eye_color">Eye Color</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="gender">Gender</string>
+    <string name="post_id">Post ID</string>
+    <string name="body">Body</string>
+    <string name="homeworld">HomeWorld</string>
+    <string name="films">Films</string>
+    <string name="species">Species</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="starships">StarShips</string>
+    <string name="created">Created</string>
+    <string name="edited">Edited</string>
+    <string name="url">Url</string>
+</resources>

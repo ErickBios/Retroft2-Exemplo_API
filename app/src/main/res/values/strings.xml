@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">Meu primeiro exemplo</string>
+    <string name="informe_seu_userid" translatable="false">Informe seu UserID.</string>
+    <string name="informe_o_t_tulo" translatable="false">Informe o título</string>
+    <string name="informe_descri_o" translatable="false">Informe descrição</string>
+    <string name="adicionar_postar" translatable="false">Adicionar | Postar</string>
+    <string name="bot_o_de_edi_o" translatable="false">botão de edição</string>
+    <string name="bot_o_de_exclus_o" translatable="false">botão de exclusão</string>
+    <string name="estou_na_tela_de_usu_rio" translatable="false">Estou na tela de Usuário</string>
+    <string name="estou_na_tela_de_addres" translatable="false">Estou na tela de Address</string>
+    <string name="addres" translatable="false">Address</string>
+    <string name="pessoa" translatable="false">Pessoa</string>
+    <string name="user" translatable="false">User</string>
+    <string name="post" translatable="false">Post</string>
+    <string name="informe_o_postid" translatable="false">Informe o PostID</string>
+    <string name="informe_o_nome" translatable="false">Informe o Nome</string>
+    <string name="informe_o_email" translatable="false">Informe o Email</string>
+    <string name="informe_o_body" translatable="false">Informe o Body</string>
+    <string name="comments" translatable="false">Comments</string>
+    <string name="informe_seu_e_mail" translatable="false">informe seu e-mail</string>
+    <string name="informe_seu_sobrenome" translatable="false">informe seu sobrenome</string>
+    <string name="exibir" translatable="false">Exibir</string>
+    <string name="informe_o_phone" translatable="false">informe o phone</string>
+    <string name="people" translatable="false">People</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="height" translatable="false">Height</string>
+    <string name="mass" translatable="false">Mass</string>
+    <string name="hair_color" translatable="false">Hair Color</string>
+    <string name="skin_color" translatable="false">Skin Color</string>
+    <string name="eye_color" translatable="false">Eye Color</string>
+    <string name="birth_year" translatable="false">Birth Year</string>
+    <string name="gender" translatable="false">Gender</string>
+    <string name="post_id" translatable="false">Post ID</string>
+    <string name="nome" translatable="false">Nome</string>
+    <string name="e_mail" translatable="false">E-mail</string>
+    <string name="body" translatable="false">Body</string>
+    <string name="chuck_norris" translatable="false">Chuck Norris</string>
+    <string name="usar_api" translatable="false">Usar API</string>
+    <string name="homeworld" translatable="false">HomeWorld</string>
+    <string name="films" translatable="false">Films</string>
+    <string name="species" translatable="false">Species</string>
+    <string name="vehicles" translatable="false">Vehicles</string>
+    <string name="starships" translatable="false">StarShips</string>
+    <string name="created" translatable="false">Created</string>
+    <string name="edited" translatable="false">Edited</string>
+    <string name="url" translatable="false">Url</string>
+    <string name="Iniciar" translatable="false">Iniciar</string>
+</resources>
